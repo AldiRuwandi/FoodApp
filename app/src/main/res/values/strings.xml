@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aplikasi Makanan Nusantara</string>
+    <string name="start">Start</string>
+    <string name="txt_link_main">Aldi Ruwandi</string>
+    <string name="lihat_komposisi">Lihat Komposisi Masakan</string>
+    <string name="video_resep_masakan">Video Resep Masakan</string>
+
+    <!-- String for on boarding screen -->
+
+    <!-- title -->
+    <string name="first_slide_title">Sejarah Makanan Nusantara</string>
+    <string name="second_slide_title">Lihat Komposisi Masakan Nusantara</string>
+    <string name="third_slide_title">Buat Masakanmu Sendiri dengan Video Tutorial</string>
+
+    <!-- description -->
+    <string name="first_slide_desc">Kamu bisa mengetahui Sejarah singkat tentang masakan nusantara dengan cara sekali klik!</string>
+    <string name="second_slide_desc">Kamu bisa mengetahui Komposisi Masakan yang kamu mau dengan sekali klik!</string>
+    <string name="third_slide_desc">Buat lah masakan mu dengan Video Tutorial yang sudah disediakan</string>
+
+    <!-- buttons -->
+    <string name="skip_button">Skip</string>
+    <string name="next_button">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+</resources>
+
